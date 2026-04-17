@@ -51,15 +51,15 @@ Both hosts successfully received messages.
 ### Output
 
 Screenshot:
-Netcat-Basics-12309264-client-server.png  
+![](image/image.png)
+
 
 ---
 
 ## 3. Task 2 – Packet Capture
 
 ### Aim
-To capture packets and save them for analysis.
-
+image/week3_12309264.pcap
 ---
 
 ### Steps Performed

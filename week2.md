@@ -6,7 +6,7 @@ This week focused on configuring static IP addresses in different ways and testi
 ## Task 1: Static IP Configuration
 
 ### Network Setup
-Project: Setting-IP-12316847  
+Project: Setting-IP-12309264  
 
 Devices used:
 - 4 Linux Hosts  
@@ -81,10 +81,9 @@ ping -c 5 -i 2 -s 100 10.1.1.2
 ---
 
 ## Outputs
-- Setting-IP-12316847.gns3project  
-- Network screenshot  
-- Host IP screenshots  
-- Ping screenshots  
+![](image/host1.png)
+![](image/topology.png)
+![](image/ping-success.png)
 
 ---
 

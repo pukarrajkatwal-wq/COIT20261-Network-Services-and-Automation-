@@ -54,7 +54,7 @@ The aim of this task was to gain basic experience with:
 
 A new GNS3 project was created:
 
-GNS3-Intro-12316847
+GNS3-Intro-12309264
 
 A Linux host node was added to the workspace.
 
@@ -114,10 +114,8 @@ The IP address 10.10.1.1 was displayed successfully, confirming correct configur
 ## 8. Outputs
 
 The following files were generated:
-
-- GNS3-Intro-12316847.gns3project  
-- GNS3-Intro-12316847-network.png  
-- GNS3-Intro-12316847-ipaddress.png  
+![](image/week-1.png)
+![](image/host1.png)
 
 ---
 

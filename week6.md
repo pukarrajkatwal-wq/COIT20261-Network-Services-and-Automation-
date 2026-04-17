@@ -151,12 +151,10 @@ Result:
 
 ### Outputs
 
-- Default-Gateway-12309264.gns3project  
-- Default-Gateway-12309264-network.png  
-- Routing table records  
-- Default-Gateway-12309264-ping.png  
-
----
+![](image/6wek.png)
+![](image/week-6.png)
+![](image/week-6_.png)
+![](image/week_6.png)
 
 ## Learning
 

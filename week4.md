@@ -93,10 +93,11 @@ A successful ping was performed from a host in one subnet to a host in the other
 ### Outputs for Task 1
 
 The required outputs for this task were:
-- `View-Routes-12309264.gns3project`
-- `View-Routes-12309264-network.png`
+![](image/image1.png)
+- ![](image/ping-success.png)
+- 
+
 - Record of IP addresses and routing tables
-- `View-Routes-12309264-ping.png`
 
 ---
 
@@ -177,8 +178,6 @@ From this task, I observed that:
 ### Outputs for Task 2
 
 The required outputs for this task were:
-- `OSPF-Basics-12309264.gns3project`
-- `OSPF-Basics-12309264-network.png`
 - Output showing neighbour routers of FRR1
 - Output showing routing table for two routers
 - Summary table of destination and next node for all routers

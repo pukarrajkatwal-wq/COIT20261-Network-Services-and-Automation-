@@ -69,13 +69,6 @@ This confirmed VLAN isolation.
 
 ---
 
-### Outputs
-
-- Vlan-Basics-12309264.gns3project  
-- Vlan-Basics-12309264-network.png  
-- Vlan-Basics-12309264-ports.png  
-
----
 
 ## Task 2: VLAN Routing
 
@@ -140,10 +133,9 @@ After configuration:
 ---
 
 ### Outputs
-
-- Vlan-Router-12309264.gns3project  
-- Vlan-Router-12309264-network.png  
-- Vlan-Router-12309264-ports.png  
+![](image/week5.png)
+![](image/week-5.png)
+![](image/week5-2.png)
 
 ---
 

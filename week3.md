@@ -58,9 +58,8 @@ Screenshot:
 
 ## 3. Task 2 – Packet Capture
 
-### Aim
-image/week3_12309264.pcap
----
+
+
 
 ### Steps Performed
 
@@ -75,10 +74,9 @@ ping -c 3 10.1.1.2
 ---
 
 ### File Generated
-
 Capture file:
-Capture-Basics-12309264-ping-netcat.pcap  
 
+![pcap file](image/week3_12309264.pcap)
 ---
 
 ## 4. Learning
